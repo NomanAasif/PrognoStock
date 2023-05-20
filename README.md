@@ -1,2 +1,2 @@
 # PrognoStock
-AI-driven Stock Price Forecasting system using LSTM
+AI-driven Stock Price Forecasting system using LSTM.
